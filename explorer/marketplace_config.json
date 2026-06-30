@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "author": "GTBS Blockchain",
+    "id": "gtbs-chain",
+    "title": "GTBS Blockchain",
+    "logo": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/symbol.svg",
+    "categories": ["Blockchain"],
+    "shortDescription": "GTBS Blockchain is a next-generation decentralized network designed for high-speed transactions, scalability, and secure digital asset management.",
+    "site": "https://gtbsblockchain.com",
+    "external": true,
+    "description": "GTBS Blockchain is a high-performance decentralized infrastructure powering the GTBS ecosystem. It enables fast, secure, and low-cost transactions while supporting DeFi, NFTs, and Web3 applications across multiple industries.",
+    "url": "https://gtbsblockchain.com"
+  },
+  {
+    "author": "GTBS Wallet",
+    "id": "gtbs-wallet",
+    "title": "GTBS Wallet",
+    "logo": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/symbol.svg",
+    "categories": ["Wallet"],
+    "shortDescription": "GTBS Wallet is a secure and user-friendly crypto wallet for storing, sending, and managing GTBS and other digital assets.",
+    "site": "https://gtbswallet.com",
+    "external": true,
+    "description": "GTBS Wallet is a secure multi-asset digital wallet that allows users to store, manage, and transfer cryptocurrencies within the GTBS ecosystem. It provides advanced security features and seamless integration with GTBS Blockchain applications.",
+    "url": "https://gtbswallet.com"
+  },
+  {
+    "author": "GatBits Exchange",
+    "id": "gatbits-exchange",
+    "title": "GatBits Exchange",
+    "logo": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/symbol.svg",
+    "categories": ["CEX", "Exchange"],
+    "shortDescription": "GatBits Exchange is a Centralized trading platform for seamless crypto asset exchange within the GTBS ecosystem.",
+    "site": "https://gatbits.com",
+    "external": true,
+    "description": "GatBits Exchange is a powerful decentralized exchange (DEX) within the GTBS ecosystem, enabling users to trade cryptocurrencies securely with high liquidity and low fees.",
+    "url": "https://gatbits.com"
+  },
+  {
+    "author": "GTBS Flicksy",
+    "id": "gtbs-flicksy",
+    "title": "GTBS Flicksy",
+    "logo": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/symbol.svg",
+    "categories": ["Social", "Short Video"],
+    "shortDescription": "GTBS Flicksy is a short video platform where users can create, share, and earn rewards.",
+    "site": "https://gtbsflicksy.com",
+    "external": true,
+    "description": "GTBS Flicksy is a next-generation short video and content-sharing platform built on Web3 principles, allowing creators to earn rewards through engagement and content monetization.",
+    "url": "https://gtbsflicksy.com"
+  },
+  {
+    "author": "GTBS Gugly",
+    "id": "gtbs-gugly",
+    "title": "GTBS Gugly",
+    "logo": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/symbol.svg",
+    "categories": ["Search Engine", "Web3"],
+    "shortDescription": "GTBS Gugly is a decentralized search engine for Web3 content and blockchain data.",
+    "site": "https://gtbsgugly.com",
+    "external": true,
+    "description": "GTBS Gugly is a privacy-focused decentralized search engine designed to index Web3 content, blockchain data, and decentralized applications.",
+    "url": "https://gtbsgugly.com"
+  },
+  {
+    "author": "GTBS NFT Marketplace",
+    "id": "gtbs-nft",
+    "title": "GTBS NFT Marketplace",
+    "logo": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/symbol.svg",
+    "categories": ["NFT Marketplace"],
+    "shortDescription": "GTBS NFT Marketplace is a platform for creating, buying, and selling NFTs.",
+    "site": "https://gtbsnft.com",
+    "external": true,
+    "description": "GTBS NFT Marketplace is a decentralized platform for minting, trading, and showcasing NFTs, empowering creators and collectors in the digital economy.",
+    "url": "https://gtbsnft.com"
+  },
+  {
+    "author": "GTBS Joy",
+    "id": "gtbs-joy",
+    "title": "GTBS Joy",
+    "logo": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/symbol.svg",
+    "categories": ["Entertainment", "Gaming"],
+    "shortDescription": "GTBS Joy is an entertainment and gaming hub within the GTBS ecosystem.",
+    "site": "https://gtbsjoy.com",
+    "external": true,
+    "description": "GTBS Joy is an interactive entertainment platform featuring games, rewards, and digital experiences powered by blockchain technology.",
+    "url": "https://gtbsjoy.com"
+  },
+  {
+    "author": "GTBS Cloud",
+    "id": "gtbs-cloud",
+    "title": "GTBS Cloud",
+    "logo": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/symbol.svg",
+    "categories": ["Cloud", "Infrastructure"],
+    "shortDescription": "GTBS Cloud provides decentralized cloud storage and computing services.",
+    "site": "https://www.gtbscloud.com",
+    "external": true,
+    "description": "GTBS Cloud is a decentralized cloud infrastructure offering secure storage, computing power, and scalable Web3 hosting solutions.",
+    "url": "https://www.gtbscloud.com"
+  }
+]
