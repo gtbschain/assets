@@ -1,8 +1,14 @@
 [
-	{
-		"title": "GTBS Smart Chain",
-		"url": "https://gtbsblockchain.com/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/symbol.svg"
-	}
+  {
+    "title": "GTBS Chain Mainnet",
+    "url": "https://gtbsblockchain.com",
+    "group": "Mainnet",
+    "icon": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/symbol.svg"
+  },
+  {
+    "title": "GTBS Chain Testnet",
+    "url": "https://testnet.gtbsblockchain.com",
+    "group": "Testnet",
+    "icon": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/symbol.svg"
+  }
 ]
