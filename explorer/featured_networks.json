@@ -4,6 +4,7 @@
     "url": "https://gtbsblockchain.com",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/network_icon.svg",
+    "invertIconInDarkMode": true,
     "isActive": true
   },
   {
@@ -11,6 +12,7 @@
     "url": "https://testnet.gtbsblockchain.com",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/network_icon.svg",
+    "invertIconInDarkMode": true,
     "isActive": false
   }
 ]
