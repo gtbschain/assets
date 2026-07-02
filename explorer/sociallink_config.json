@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "title": "Developers",
+    "links": [
+      {
+        "text": "Build Hub",
+        "url": "https://gtbs.live/"
+      },
+      {
+        "text": "Documentation",
+        "url": "https://docs.gtbsblockchain.com"
+      },
+      {
+        "text": "Mainnet Explorer",
+        "url": "https://gtbsblockchain.com"
+      },
+      {
+        "text": "Developer Portal",
+        "url": "https://docs.gtbsblockchain.com"
+      },
+      {
+        "text": "Bug Bounty",
+        "url": "https://github.com/gtbschain"
+      }
+    ]
+  },
+  {
+    "title": "Ecosystem",
+    "links": [
+      {
+        "text": "Ecosystem Portal",
+        "url": "https://gtbs.live/ecosystem"
+      },
+      {
+        "text": "Validators",
+        "url": "https://status.gtbsblockchain.com"
+      },
+      {
+        "text": "Micro Nodes",
+        "url": "https://docs.gtbsblockchain.com/become-a-validator/"
+      },
+      {
+        "text": "Governance",
+        "url": "https://docs.gtbsblockchain.com/the-chain/consensus-contracts/vote/"
+      },
+      {
+        "text": "Grants",
+        "url": "https://gtbs.live/"
+      }
+    ]
+  },
+  {
+    "title": "Tools",
+    "links": [
+      {
+        "text": "GTBS Wallet",
+        "url": "https://gtbs.live/"
+      },
+      {
+        "text": "Bridges",
+        "url": "https://docs.gtbsblockchain.com/the-chain/token-bridges/"
+      },
+      {
+        "text": "Staking",
+        "url": "https://staking.gtbsblockchain.com"
+      },
+      {
+        "text": "Launchpad",
+        "url": "https://gtbs.live/"
+      },
+      {
+        "text": "Faucet",
+        "url": "https://faucet.gtbsblockchain.com"
+      }
+    ]
+  },
+  {
+    "title": "Company",
+    "links": [
+      {
+        "text": "About",
+        "url": "https://gtbs.live/"
+      },
+      {
+        "text": "Roadmap",
+        "url": "https://gtbs.live/"
+      },
+      {
+        "text": "Tokenomics",
+        "url": "https://docs.gtbsblockchain.com/general/learn-about-the-platform/native-token/tokenomics/"
+      },
+      {
+        "text": "Careers",
+        "url": "https://gtbs.live/"
+      },
+      {
+        "text": "Partners",
+        "url": "https://gtbs.live/ecosystem"
+      }
+    ]
+  }
+]
