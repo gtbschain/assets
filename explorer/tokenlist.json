@@ -1,0 +1,13 @@
+{
+  "name": "GTBS Token List",
+  "tokens": [
+    {
+      "chainId": 4599,
+      "address": "0xYourTokenAddress",
+      "name": "My Token",
+      "symbol": "MTK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/blockchains/gtbs/0xYourTokenAddress/logo.png"
+    }
+  ]
+}
