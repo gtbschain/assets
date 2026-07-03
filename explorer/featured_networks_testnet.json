@@ -1,0 +1,18 @@
+[
+  {
+    "title": "GTBS Chain Mainnet",
+    "url": "https://gtbsblockchain.com",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/network_icon.svg",
+    "invertIconInDarkMode": true,
+    "isActive": false
+  },
+  {
+    "title": "GTBS Chain Testnet",
+    "url": "https://testnet.gtbsblockchain.com",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/network_icon.svg",
+    "invertIconInDarkMode": true,
+    "isActive": true
+  }
+]
