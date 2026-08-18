@@ -11,6 +11,14 @@
     },
     {
       "chainId": 4599,
+      "address": "0x41f55bc9c59dC72Ac29972b8EaC4cc6b93771573",
+      "name": "MAKEUP TOKEN",
+      "symbol": "MAKEUP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gtbschain/assets/master/explorer/tokens/0x41f55bc9c59dC72Ac29972b8EaC4cc6b93771573.png"
+    },
+    {
+      "chainId": 4599,
       "address": "0xfeEB016d4265A1d675b17AF34fAa6493f2f0e0CA",
       "name": "Wrapped Avalanche",
       "symbol": "AVAX",
